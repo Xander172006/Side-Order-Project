@@ -1,0 +1,9 @@
+Tone,Ability,Description,Max.,Availability
+,Armor Drop,Increases the chances of enemies dropping armor. Armor will absorb damage and break so you don't lose a life.,5,All Palettes
+,Ink-Bottle Drop,Increases the chances of enemies dropping ink bottles. An ink bottle fills half of your ink tank.,5,All Palettes
+,Canned-Special Drop,Increases the chances of enemies dropping Canned Specials. A canned special fills half of the special gauge.,5,All Palettes
+,Drone-Battery Drop,Increases the chance of enemies dropping drone batteries. A drone battery fills the drone gauge by 100 points.,5,All Palettes
+,Lucky Bomb Drop,Increases the chances of enemies dropping Lucky Bombs. Lucky Bombs explode from the closest enemy to the farthest.,5,All Palettes
+,Disc-Piece Drop,"Increases the chances of enemies dropping disc pieces. Get three, and the Pearl Drone's Step-Off Song will temporarily close portals.",5,All Palettes
+,Lucky Chain Window,"Increases the duration of a Lucky Chain. The larger the chain, the more likely enemies are to drop items.",5,All Palettes
+,Max Lucky Chain,"Increases the Lucky Chain maximum. The longer the chain, the more likely enemies are to drop items.",5,All Palettes

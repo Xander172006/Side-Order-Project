@@ -1,0 +1,14 @@
+Tone,Ability,Description,Max.,Availability
+,Ink-Recovery Rate,Increases Ink-tank refill rate.,5,All Palettes
+,Ink Saver (Main),Decreases amount of ink consumed by your main weapon.,5,All Palettes
+,Ink Saver (Sub),Decreases amount of ink consumed by your sub weapon.,5,All Palettes
+,Splat Ink Recovery,Refill ink by defeating enemies.,5,All Palettes
+,Sticky Ink,Decreases the movement speed of enemies on your ink.,5,All Palettes
+,Knockback,Attacks from your main weapon push enemies away. Does not affect certain heavy enemies.,5,"Pearl's Palette, Marina's Palette, Agent 4's Palette, Callie's Palette, Marie's Palette, Shiver's Palette, Frye's Palette, Big Man's Palette, Sheldon's Palette, DJ Octavio's Palette, Eight's Palette"
+,Explosion Knockback,Increases the distance enemies are blown back by explosions.,5,All Palettes
+,Shot-Spread Reduction,Reduces the shot spread on your main weapon.,5,"Pearl's Palette, Marina's Palette, Agent 4's Palette, Murch's Palette, DJ Octavio's Palette, Eight's Palette"
+,Homing Shots,Causes your main weapon to track targets. Having two or more improves the tracking.,5,All Palettes
+,Quick Charge,Increases your main weapon's charge speed.,5,"Marie's Palette, Shiver's Palette, Frye's Palette, DJ Octavio's Palette"
+,No-Launch Brella,"Prevents the brella shield from launching, allowing you to keep shooting with it open.",1,Marina's Palette
+,Brella Cooldown,Speeds up brella canopy regeneration after the brella shield is launched or broken.,5,Marina's Palette
+,Midfire Charge,Allows you to begin a new splatling charge before the previous charge is depleted.,1,DJ Octavio's Palette

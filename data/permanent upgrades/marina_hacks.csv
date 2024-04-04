@@ -1,0 +1,58 @@
+Upgrade recipient,Upgrade,Upgrade,Base Effect,Upgrades,Upgrades,Upgrades,Upgrades,Upgrades,Unlock
+Upgrade recipient,Name,Description,Base Effect,Upgrades,Upgrades.1,Upgrades.2,Upgrades.3,Upgrades.4,Unlock
+Player,Max Lives,Increases how many Lives you get per run at the Spire.,1 Life,2 Lives,3 Lives,4 Lives,5 Lives,6 Lives,Initially
+Player,Max Lives,Increases how many Lives you get per run at the Spire.,1 Life,30,90,180,360,500,Initially
+Player,Damage Reduction,Reduces damage taken.,x2,x1.5,x1,x0.9,x0.75,x0.5,Initially
+Player,Damage Reduction,Reduces damage taken.,x2,30,60,100,200,400,Initially
+Player,Max Armor,Increases the maximum pieces of additional armor you can have at once.,+1 Armor,+2 Armor,+3 Armor,+4 Armor,,,Initially
+Player,Max Armor,Increases the maximum pieces of additional armor you can have at once.,+1 Armor,50,100,300,,,Initially
+Player,Broken-Armor Jump,Automatically launch into the air when all armor is broken. Extra investment increases launch height.,Off,1,1.2,1.5,2,,Initially
+Player,Broken-Armor Jump,Automatically launch into the air when all armor is broken. Extra investment increases launch height.,Off,30,60,100,200,,Initially
+Player,Armor Recovery,Increases the speed at which broken armor repairs itself. Swimming in ink restores it even faster.,12 seconds,10 seconds,8 seconds,6 seconds,4 seconds,,After clearing 5F
+Player,Armor Recovery,Increases the speed at which broken armor repairs itself. Swimming in ink restores it even faster.,12 seconds,10,50,100,150,,After clearing 5F
+Player,Broken-Armor Speed,Increases movement speed when all armor is broken.,x0.6,x0.7,x0.8,x0.9,,,After clearing 15F
+Player,Broken-Armor Speed,Increases movement speed when all armor is broken.,x0.6,30,60,100,,,After clearing 15F
+Player,Continue,Allows you to pay Membux to keep going after losing all your Lives.,Off,3000,2600,2200,1800,1400,After clearing 20F
+Player,Continue,Allows you to pay Membux to keep going after losing all your Lives.,Off,50,100,200,300,400,After clearing 20F
+Player,Attack Damage,Increase damage dealt to enemies.,x1,x1.2,x1.4,x1.6,x1.8,x2,After clearing 30F
+Player,Attack Damage,Increase damage dealt to enemies.,x1,150,200,300,500,700,After clearing 30F
+Random Factors,Floor Reset,Enables you to reset the offered floor types and rewards.,Off,400,300˜,200˜,100˜,50˜,After clearing 15F
+Random Factors,Floor Reset,Enables you to reset the offered floor types and rewards.,Off,50,80,120,150,200,After clearing 15F
+Random Factors,Double-Chip Rate,Increases the chance of getting double chips during floor selection.,5%,7%,9%,11%,13%,15%,After clearing 5F
+Random Factors,Double-Chip Rate,Increases the chance of getting double chips during floor selection.,5%,30,50,70,90,150,After clearing 5F
+Random Factors,Color-Chip Bias,Your Palette's common color chips will be offered even more frequently.,Default,Slight Bias (2×/1.5×),High Bias (3×/2×),,,,After clearing 20F
+Random Factors,Color-Chip Bias,Your Palette's common color chips will be offered even more frequently.,Default,Free Enabled by default,50,,,,After clearing 20F
+Pearl Drone,Drone Action Slots,Increases the number of action slots to set color chips for the Pearl Drone. Note: Hacking is required to set any color chips for the drone other than Drone Killer Wail and Drone Splat Bomb.,1,2,3,4,5,,Initially
+Pearl Drone,Drone Action Slots,Increases the number of action slots to set color chips for the Pearl Drone. Note: Hacking is required to set any color chips for the drone other than Drone Killer Wail and Drone Splat Bomb.,1,10,50,150,300,,Initially
+Pearl Drone,Drone-Gauge Turf Charge,Unlocks color chips that increase the drone gauge by inking the ground.,Locked,Unlocked,,,,,Initially
+Pearl Drone,Drone-Gauge Turf Charge,Unlocks color chips that increase the drone gauge by inking the ground.,Locked,30,,,,,Initially
+Pearl Drone,Drone-Gauge Splat Charge,Unlocks color chips that increase the drone gauge by defeating enemies.,Locked,Unlocked,,,,,After clearing 15F
+Pearl Drone,Drone-Gauge Splat Charge,Unlocks color chips that increase the drone gauge by defeating enemies.,Locked,30,,,,,After clearing 15F
+Pearl Drone,Drone Ink Mine,Unlocks color chips that let the Pearl Drone use Ink Mines.,Locked,Unlocked,,,,,Initially
+Pearl Drone,Drone Ink Mine,Unlocks color chips that let the Pearl Drone use Ink Mines.,Locked,40,,,,,Initially
+Pearl Drone,Drone Sprinkler,Unlocks color chips that let the Pearl Drone spray ink.,Locked,Unlocked,,,,,After clearing 5F
+Pearl Drone,Drone Sprinkler,Unlocks color chips that let the Pearl Drone spray ink.,Locked,40,,,,,After clearing 5F
+Pearl Drone,Drone Burst Bomb,Unlocks color chips that let the Pearl Drone use Burst Bombs.,Locked,Unlocked,,,,,After clearing 5F
+Pearl Drone,Drone Burst Bomb,Unlocks color chips that let the Pearl Drone use Burst Bombs.,Locked,40,,,,,After clearing 5F
+Pearl Drone,Drone Inkstrike,Unlocks color chips that let the Pearl Drone use Inkstrikes.,Locked,Unlocked,,,,,After clearing 20F
+Pearl Drone,Drone Inkstrike,Unlocks color chips that let the Pearl Drone use Inkstrikes.,Locked,100,,,,,After clearing 20F
+Pearl Drone,Drone Items,Unlocks color chips that let the Pearl Drone generate items.,Locked,Unlocked,,,,,After clearing 15F
+Pearl Drone,Drone Items,Unlocks color chips that let the Pearl Drone generate items.,Locked,80,,,,,After clearing 15F
+Enemies,Reveal 10F Boss,Learn what boss you'll face on 10F before the fight.,Hide,Reveal,,,,,After clearing 10F
+Enemies,Reveal 10F Boss,Learn what boss you'll face on 10F before the fight.,Hide,30,,,,,After clearing 10F
+Enemies,Reveal 20F Boss,Learn what boss you'll face on 20F before the fight.,Hide,Reveal,,,,,After clearing 20F
+Enemies,Reveal 20F Boss,Learn what boss you'll face on 20F before the fight.,Hide,30,,,,,After clearing 20F
+Enemies,Weaken Enemies,Enemies on Normal floors up to 10F and Easy floors up to 20F will spawn in a weakened state.,Default,Weakened,,,,,After clearing 15F
+Enemies,Weaken Enemies,Enemies on Normal floors up to 10F and Easy floors up to 20F will spawn in a weakened state.,Default,30,,,,,After clearing 15F
+Vending Machines,Vending-Machine Discount,Gives you a discount on purchases from the vending machine.,,10% Off,20% Off,30% Off,40% Off,50% Off,After clearing 25F
+Vending Machines,Vending-Machine Discount,Gives you a discount on purchases from the vending machine.,,30,60,120,200,400,After clearing 25F
+Vending Machines,Vending-Machine Reset,Allows you to pay Membux to change a vending machine's selection.,Off,800,600˜,500˜,400˜,200˜,After clearing 20F
+Vending Machines,Vending-Machine Reset,Allows you to pay Membux to change a vending machine's selection.,Off,10,30,50,70,100,After clearing 20F
+Vending Machines,15F Vending Machine,Ensures that 15F will always have a vending-machine corner.,Random,Always,,,,,After clearing 10F
+Vending Machines,15F Vending Machine,Ensures that 15F will always have a vending-machine corner.,Random,40,,,,,After clearing 10F
+Vending Machines,25F Vending Machine,Ensures that 25F will always have a vending-machine corner.,Random,Always,,,,,After clearing 20F
+Vending Machines,25F Vending Machine,Ensures that 25F will always have a vending-machine corner.,Random,40,,,,,After clearing 20F
+Membux,Membux Reward,Receive more Membux as a reward for clearing floors.,x1,x1.1,x1.2,x1.3,x1.4,x1.5,After clearing 5F
+Membux,Membux Reward,Receive more Membux as a reward for clearing floors.,x1,50,80,100,150,300,After clearing 5F
+Prlz,Risky Rewards,"The fewer hacks that are active, the more Prlz you get for clearing the Spire, up to 3x. However, if you don't clear the Spire, you get nothing. (Existing hacks can be freely adjusted.)",Off,On,,,,,After clearing 30F
+Prlz,Risky Rewards,"The fewer hacks that are active, the more Prlz you get for clearing the Spire, up to 3x. However, if you don't clear the Spire, you get nothing. (Existing hacks can be freely adjusted.)",Off,333,,,,,After clearing 30F

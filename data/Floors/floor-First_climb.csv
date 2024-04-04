@@ -1,0 +1,11 @@
+Floor No.,Difficulty,Floor Name,Objective,Reward,Color Chip
+1F,Easy,First.Floor,Destroy the portal!,10.0,Main Damage (Distant)
+2F,Normal,Home-Turf.Floor,Destroy the portals!,60.0,Poison Ink
+3F,Hard,Special-Surprise.Floor,Destroy the portals!,120.0,Lucky Bomb Drop
+4F,Easy,Gliding.Floor,Protect the zone!,20.0,Ink Saver (Main) x2
+5F,Normal,Springing.Floor,Escort the turbine tower!,80.0,Drone Killer Wail
+6F,Normal,Double-Zoned.Floor,Protect the zones!,80.0,Main Range x2
+7F-9F,Easy,Rolling.Floor,Sink the ∞-balls!,30.0,Dodge Roll Attack
+7F-9F,Normal,Escape-Artist.Floor,Defeat the fleeing foes!,90.0,Main Ink Coverage
+7F-9F,Hard,Whirling-Shell.Floor,Destroy the portals!,130.0,Max Lucky Chain
+10F,,Control Room,Liberate Marina!,,

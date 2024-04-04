@@ -1,0 +1,9 @@
+Bonus Objective,Breach Limit,Information
+Don't use your main weapon!,,"This objective will have the Membux reward be tied to using the main weapon—using sub weapons, specials and the Pearl Drone will not reduce the reward, but each shot of the main weapon will reduce the reward accordingly."
+Don't use your sub weapon!,6 Uses,"This objective will tell the player how many times they can use the sub equipped before forfeiting the reward fully, and each use of one will reduce the reward accordingly."
+Don't use special weapons!,3 Uses,"This objective is akin to the sub weapon one as it will tell the player how many times they can use the special equipped before forfeiting the reward fully, and using one will reduce the reward accordingly."
+Don't take damage!,,"If the player takes damage with this objective, the Membux reward will decrease."
+Don't move in Octoling form!,,"Moving around in Octoling form reduces the reward, including hovering with the drone and most movement involving special weapons. The player is not penalised if they use a weapon that does not make them move."
+Don't move in swim form!,,"Like above, but this time moving in swim form reduces the reward. This includes any movement during Kraken Royale or Crab Tank's ball form. The player can turn into swim form on an ink patch of their color and stay still without losing any Membux."
+Don't glide!,,"The reward is tied to how long the player glides using the Pearl Drone. The automatic switch to glide mode after a certain amount of airtime can be overridden by entering swim form, attacking with a main weapon, or readying a sub weapon."
+Don't jump!,10 Jumps,"The reward is tied to how many times the player jumps or Squid Rolls. This only counts successful manual jump inputs—airtime gained from level elements such as dash tracks and inkrails, Spiccato springs, climbing walls in swim form, or simply walking off ledges are not counted, so long as the player did not jump to reach them."

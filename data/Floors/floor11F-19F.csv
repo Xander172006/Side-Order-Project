@@ -1,0 +1,36 @@
+Floor Name,Objective,Base Reward
+Easy,Easy,Easy
+Crisscross.Floor,Defeat the fleeing foes!,35
+Rotational.Floor,Sink the ∞-balls!,40
+Double-Hill.Floor,Defeat the fleeing foes!,45
+Fortress.Floor,Sink the ∞-balls!,45
+Crisscross.Floor,Destroy the portals!,50
+Switchback.Floor,Sink the ∞-balls!,55
+Normal,Normal,Normal
+Danger-Magnet_Uneven.Floor,Sink the ∞-balls!,135
+Rolling_Double-Hill.Floor,Sink the ∞-balls!,140
+Field-Day_Fortress.Floor,Defeat the fleeing foes!,145
+Open-Season_Fortress.Floor,Escort the turbine tower!,150
+Danger-Magnet_Crisscross.Floor,Escort the turbine tower!,155
+Springing_Double-Hill.Floor,Escort the turbine tower!,160
+Springing_Uneven.Floor,Defeat the fleeing foes!,165
+Open-Season_Switchback.Floor,Escort the turbine tower!,170
+Open-Season_Crisscross.Floor,Sink the ∞-balls!,175
+Reckless_Switchback.Floor,Defeat the fleeing foes!,180
+Exposed_Switchback.Floor,Protect the zones!,185
+Danger-Magnet_Switchback.Floor,Destroy the portals!,190
+Carefully-Aimed-Reversal.Floor,Destroy the portals!,195
+Hard,Hard,Hard
+Outstretched-Neck_Uneven.Floor,Destroy the portals!,340
+Bombarded(Constant)_Exposed.Floor,Protect the zones!,345
+Ceaseless_Open-Season_Uneven.Floor,Escort the turbine tower!,350
+Onrushing_Shelterless_Fortress.Floor,Destroy the portals!,355
+Projectile-Spam(High)_Uneven.Floor,Protect the zones!,360
+Springing(Swarmed)_Double-Hill.Floor,Destroy the portals!,365
+Ping-Ponging_Double-Hill.Floor,Protect the zones!,370
+Springing_Jamboree.Floor,Protect the zones!,375
+Frantic_Double-Decker_Crisscross.Floor,Protect the zones!,380
+Rigorous,Rigorous,Rigorous
+On-the-Run(Circles)_Eternally-Hunted.Floor,Escort the turbine tower!,550
+Ferocious_Invading-Droves_Fortress.Floor,Protect the zones!,570
+Unreasonable_Shelterless_Up-and-Down.Floor,Destroy the portals!,590

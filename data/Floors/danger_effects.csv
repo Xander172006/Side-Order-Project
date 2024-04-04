@@ -1,0 +1,11 @@
+Danger augment,Description
+Lights Out,"The stage is dark, making it difficult to see the terrain and enemies."
+Ink Coating,Agent 8 must fight on a main platform that is fully covered in enemy ink (excluding zones if applicable).
+No Pearl Drone,Agent 8 must fight without the help of the Pearl Drone (this includes gliding and the Step-Off song).
+No Item Drops,"Enemies do not drop items when killed. Crates still drop items, and the Drone Items chips still work as well."
+Stronger Jelletons,"Agent 8 must battle Jelletons that are in their tougher form right off the bat, rather than after some time left alive."
+Arpeggio Barrage,Homing Arpeggios will continuously spawn and attack at unpredictable intervals.
+Combined Danger Augments,Combined Danger Augments
+Lights Out + Ink Coating,"Not only is the stage darkened, making it hard to see, but (barring any Zones) the entire floor is covered in enemy ink."
+No Pearl Drone + No Item Drops,"Not only is the Pearl Drone disabled, but the Jelletons will not drop any items. Items will still drop from crates."
+Stronger Jelletons + Arpeggio Barrage,"Not only are all Jelletons in their tougher forms right off the bat, but Homing Arpeggios will continuously spawn and attack Eight."
