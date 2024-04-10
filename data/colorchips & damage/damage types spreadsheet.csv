@@ -1,0 +1,96 @@
+MAIN DAMAGE TYPES,Damage (No Hacks or Chips),
+Dualie,240,
+Brella (Shot),162 (up to 5 hits to single target for 810 damage),
+Splattershot/Octoshot,240,
+Splat Roller (Horizontal Ink Flick),1000,
+Splat Roller (Vertical Ink Flick),1200,
+Splat Charger,400 to 1600,Pierces at full charge
+Tri-Stringer (Direct Hit),300 to 450 (Per arrow),
+Splatana Stamper (Horizontal Ink Attack),500,
+Splatana Stamper (Verticle Ink Attack),1050,
+Slosher,650,
+Luna Blaster (Direct Hit),1250,
+Octo Brush (Ink Attack),450,
+Heavy Splatling,200,
+,,
+,,
+SUB/SPECIAL DAMAGE TYPES,,
+Turbine Tower Sprinkler,200,
+Sprinkler,200,
+Drone Sprinkler,200,
+Ink Storm,32/Tick (1 tick every 8 frames = 240 DPS),7.5 ticks/second
+Trizooka (Direct),2200,
+Crab Tank (Rapid Fire Shot),320,
+Crab Tank (Direct Hit with Ink Bomb),600,
+,,
+EXPLOSION DAMAGE TYPES,,
+Lucky Bomb,800,
+Portal Explosion,480/Tick (1 tick every 8 frames = 3600 DPS),7.5 ticks/second
+Bouncing off a dead Spiccato's Spring,1200,
+"Towering Nobilmente Death ""Sniper Enemy""",1800,
+"Accordo Explosion ""Tree Angler Fish Enemy""",1800,
+"Gushing Trionfale Explosion ""Bomb Spitting Enemy""",1800,
+Tri-Stringer (Arrow Explosion),280 (Per Arrow),
+Luna Blaster (Explosion),500,
+Curling Bomb (Explosion),1800,
+Splat Bomb,1800,
+Drone Splat Bomb,1800,
+Burst Bomb (Explosion),350,
+Drone Burst Bomb (Explosion),350,
+Ink Mine,450,
+Drone Ink Mine,450,
+Fizzy Bomb,500 per explosion,
+Suction Bomb,1800,
+Reefslider (Explosion),2200,
+Trizooka (Explosion),400,
+Triple Inkstrike,375/Tick (Per Strike) (1 Tick every 5 frames = 4500 DPS),12 ticks/second
+Drone Ink Strike,"250/Tick (1 Tick every 5 frames = 3000 DPS)
+          Drone only gets 1 ink strike",12 ticks/second
+Crab Tank (Bomb Splash),300,
+Ultra Stamp (Thrown Hammer Splash),600,
+Ultra Stamp (Splash From Aoe Of Hammerring Ground),400,Credit to @alfredoguzman6269 for pointing this one out to me
+Booyah Bomb,264/Tick (1 tick every 8 frames = 1980 DPS),7.5 ticks/second
+Triple Splashdown,1600 Per Splash (4800 if hitting with all 3),
+,,
+RUSH DAMAGE TYPES,,
+8 Ball Covered in your own ink,(156 to 4000) Min probably around 150,
+"Launched Whirling Accelerando Corpse ""Spinning Top Enemy""",4800,
+Rush Attack Chip,1000,
+Lunge Attack Chip (Splatana Only),800,
+Dodge Roll Attack Chip (Duelie Only),800,
+Brella (Launched or Held Shield),500,
+Splat Roller (Rolling into Enemies),1000,
+Splatana Stamper (Slash),200,
+Splatana Stamper (Charge Slash),1050,
+OctoBrush (Running Into Enemies),320,
+Curling Bomb (Slide Thru Enemies),200,
+Burst Bomb (Direct Hit),250,
+Drone Burst Bomb (Direct Hit),250,
+Splash Wall,300,
+Reefslider (Slide Thru Enemies),1800,
+Kraken Royale (Jump),800,
+Kraken Royale (Charged Dash),1800,
+Crab Tank (Rolling while in Ball form),400,
+Ultra Stamp (Hammering the Ground),1000,
+Ultra Stamp (Direct Hit with Thrown Hammer),2200,
+Wave Breaker (When sitting directly on top on an enemy),300,Credit to @Waffledoctor87 for pointing this one out to me
+,,
+SOUNDS DAMAGE TYPES,,
+Turbine Tower Checkpoint Cleared Wave,500,
+Drone Step Off Song Wave (By Collecting 3 Discs),800,
+Killer Wail 5.1,"35/Tick (Per Beam) (1 Tick every 5 frames = 420 DPS)
+                     (2520 DPS for the combined 6 beams)","12 ticks/second
+Damaging part of each beam attack lasts about 3 seconds"
+Drone Killer Wail,"90/Tick (1 Tick every 5 frames = 1080 DPS)
+          Drone only gets 1 beam","12 ticks/second
+Damaging part of attack lasts about 7 seconds"
+Wave Breaker (Sound Waves),450,
+,,
+POISON INK DAMAGE TYPES,,
+"...Just Poison ink
+",100/Tick,"This does 1.5X damage to Portals. 
+This can NOT kill portals or the fleeing fish enemies (Can still damage them)
+This does reduced damage to the sniper enemies"
+,,
+N/A,,
+Toxic Mist,,

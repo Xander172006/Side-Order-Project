@@ -1,0 +1,60 @@
+Basic Enemies,,Armor Reduction,
+Dummy,2000,,
+Small Portal,10500,,Recovers Health Over Time
+Big Portal,About 20000,,Recovers Health Over Time
+Tentacle Portal,18000,,Recovers Health Over Time
+Fleeing Fish (Panicking Alla Mambo),2200,,
+Small Fish (Swarming Languendo),400,,
+Medium Fish (Marching Andante),2000,,
+Big Fish (Battering Lento),6000,,
+Flying Ink Fish (Drizzling Capriccioso),1000,,
+Spring Enemy (Springing Spiccato),1800,,
+Top Enemy (Head) (Whirling Accelerando),2000,,Doing damage to 1 part doesnt hurt the other
+Top Enemy (Armored Body) (Whirling Accelerando),2500,75%,Doing damage to 1 part doesnt hurt the other
+Tower Enemy (Tower Segment) (Towering Nobilmente),150,75%,
+Tower Enemy (Head) (Towering Nobilmente),2000,,
+Homing Enemy (Homing Arpeggio),200,,
+Angler Fish (Body) (Spawning Accordo),10000,,
+Angler Fish (Head Egg) (Spawning Accordo),400,,
+Gushing Enemy (Body) (Gushing Trionfale),1550,75%,
+Gushing Enemy (Ball) (Gushing Trionfale),1000,,
+,,,
+Bosses,,,
+Inkling (Parallel Canon) (Floor 10),1000,,"7 inklings total (1+2+4)
+Recovers Health Over Time 
+Can be Hurt By Poison Ink"
+Inkling (Parallel Canon) (Floor 20),1000,,"10 inklings total (2+3+5)
+Recovers Health Over Time 
+Can be Hurt By Poison Ink"
+,,,
+Bounder (Pinging Marciale) (Floor 10),42000 (14000 per phase),75%,Can not be killed by bumbers (check bounder 2 floor 20 footage)
+Bounder (Pinging Marciale) (Floor 20),48000 (16000 per phase),75%,Can not be killed by bumbers (check bounder 2 floor 20 footage)
+,,,
+Rotator (Asynchronous Rondo) (Floor 10),,,"Can Be Hurt By Poison
+Only Yellow Sections need to be destroyed to beat boss"
+1,3000,75%,
+2,3000,75%,
+3,5000,75%,
+4,5500,75%,
+5,5500,75%,
+6,7500,75%,
+7,8000,75%,
+8,8000,75%,
+9,8000,75%,
+,,,
+Rotator (Asynchronous Rondo) (Floor 20),,,"Can Be Hurt By Poison
+Only Yellow Sections need to be destroyed to beat boss"
+1,5000,75%,
+2,5000,75%,
+3,8000,75%,
+4,9000,75%,
+5,9000,75%,
+6,9000,75%,
+7,10000,75%,
+8,10000,75%,
+9,16000,75%,
+,,,
+Order (Overlorder),,,
+1,20000,,
+2,40000,,
+3,60000,,
