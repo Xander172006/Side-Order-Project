@@ -61,6 +61,9 @@ Once you installed everything correctly, you can now start to viewing the projec
 ## Usage
 ### Filtering and Interacting
 You can filter and interact with the dashboard in PowerBi with these following components:
+<br />
+
+<img src="./images/upperhalf_dashboard.png" alt="upperhalf side order">
 
 <br />
 
