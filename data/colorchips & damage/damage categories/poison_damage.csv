@@ -1,0 +1,4 @@
+﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+...Just Poison ink,100,,"This does 1.5X damage to Portals. 
+This can NOT kill portals or the fleeing fish enemies (Can still damage them)
+This does reduced damage to the sniper enemies"

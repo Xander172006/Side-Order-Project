@@ -1,0 +1,28 @@
+﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+"Accordo Explosion ""Tree Angler Fish Enemy""",1800,,""
+Booyah Bomb,264,1 tick every 8 frames = 1980 DPS),7.5 ticks/second
+Bouncing off a dead Spiccato's Spring,1200,,""
+Burst Bomb (Explosion),350,,""
+Crab Tank (Bomb Splash),300,,""
+Curling Bomb (Explosion),1800,,""
+Drone Burst Bomb (Explosion),350,,""
+Drone Ink Mine,450,,""
+Drone Ink Strike,250,"(1 Tick every 5 frames = 3000 DPS)
+          Drone only gets 1 ink strike",12 ticks/second
+Drone Splat Bomb,1800,,""
+Fizzy Bomb,500,,""
+"Gushing Trionfale Explosion ""Bomb Spitting Enemy""",1800,,""
+Ink Mine,450,,""
+Lucky Bomb,800,,""
+Luna Blaster (Explosion),500,,""
+Portal Explosion,480,1 tick every 8 frames = 3600 DPS,7.5 ticks/second
+Reefslider (Explosion),2200,,""
+Splat Bomb,1800,,""
+Suction Bomb,1800,,""
+"Towering Nobilmente Death ""Sniper Enemy""",1800,,""
+Triple Inkstrike,375,(Per Strike) (1 Tick every 5 frames = 4500 DPS),12 ticks/second
+Triple Splashdown,1600,4800 if hitting with all 3),""
+Tri-Stringer (Arrow Explosion),280,Per Arrow,""
+Trizooka (Explosion),400,,""
+Ultra Stamp (Splash From Aoe Of Hammerring Ground),400,,Credit to @alfredoguzman6269 for pointing this one out to me
+Ultra Stamp (Thrown Hammer Splash),600,,""

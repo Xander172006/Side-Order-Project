@@ -1,0 +1,9 @@
+﻿Sum of id,Chip Name,Base (0 Chips),upgrade_1,upgrade_2,upgrade_3,upgrade_4,upgrade_5,Sum of upgrade_6,Sum of upgrade_7,Sum of upgrade_8,Sum of upgrade_9,Extra comments,Extra conditions
+76,Armor Drop,1%,1%,1.50%,2%,2.50%,3%,,,,,"",""
+78,Canned-Special Drop,1%,4%,7%,10%,13%,20%,,,,,"",""
+81,Disc-Piece Drop,1%,2%,3%,4%,5%,6%,,,,,"",""
+79,Drone-Battery Drop,0%,4%,7%,10%,13%,20%,,,,,"",""
+77,Ink-Bottle Drop,1%,4%,7%,10%,13%,20%,,,,,"",""
+80,Lucky Bomb Drop,0%,15%,30%,45%,60%,90%,,,,,"",""
+82,Lucky Chain Window,3 sec,5 sec,7 sec,9 sec,11 sec,20 sec,,,,,"",""
+83,Max Lucky Chain,10,20,30,40,50,99,,,,,10% increase to drop rate per chain level (100% increase for every 10),""

@@ -1,0 +1,16 @@
+id,Chip Name,Base (0 Chips),upgrade_1,upgrade_2,upgrade_3,upgrade_4,upgrade_5,upgrade_6,upgrade_7,upgrade_8,upgrade_9,Extra comments,Extra conditions,Inkdamage,Splash Damage
+1,Ink Damage,100%,105%,110%,115%,120%,150%,155%,160%,165%,200%,,,105%,130%
+2,Splash Damage,100%,130%,160%,190%,210%,300%,330%,360%,390%,500%,,,110%,160%
+3,Sound-Wave Damage,100%,150%,200%,250%,300%,500%,,,,,,,115%,190%
+4,Main Fire Speed (Duelie),100%,117%,140%,175%,233%,350%,,,,,,,120%,210%
+5,Main Fire Speed (Splattershot),100%,114%,133%,160%,200%,266%,,,,,,,150%,300%
+6,Main Fire Speed (Brella),100%,117%,126%,136%,148%,200%,,,,,,,155%,330%
+7,Main Fire Speed (Roller),100%,121%,144%,177%,209%,328%,,,,,,,160%,360%
+8,Main Fire Speed (Brush),100%,125%,136%,150%,167%,250%,,,,,,,165%,390%
+9,Main Fire Speed (Blaster),100%,150%,200%,273%,375%,1000%,,,,,,,200%,500%
+10,Main Fire Speed (Slosher),100%,117%,131%,148%,170%,227%,,,,,,,,
+11,Horizontal-Slash Speed,100%,118%,137%,162%,200%,260%,,,,,,,,
+12,Splatling Barrage,100%,121%,133%,145%,154%,200%,,,,,,,,
+13,Main Damage (Close),100%,115%,130%,145%,160%,200%,,,,,,,,
+14,Main Damage (Distant),100%,115%,130%,145%,160%,200%,,,,,,,,
+15,Poison Ink,100%,300%,400%,500%,600%,800%,,,,,,No damage to small fish (can not ink below them),,

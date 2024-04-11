@@ -1,0 +1,10 @@
+﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+Drone Killer Wail,90,"(1 Tick every 5 frames = 1080 DPS)
+          Drone only gets 1 beam","12 ticks/second
+Damaging part of attack lasts about 7 seconds"
+Drone Step Off Song Wave (By Collecting 3 Discs),800,,""
+Killer Wail 5.1,35,"(Per Beam) (1 Tick every 5 frames = 420 DPS)
+                     (2520 DPS for the combined 6 beams)","12 ticks/second
+Damaging part of each beam attack lasts about 3 seconds"
+Turbine Tower Checkpoint Cleared Wave,500,,""
+Wave Breaker (Sound Waves),450,,""
