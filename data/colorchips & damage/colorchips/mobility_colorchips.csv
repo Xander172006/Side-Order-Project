@@ -1,14 +1,15 @@
-﻿Sum of id,Chip Name,Base (0 Chips),upgrade_1,upgrade_2,upgrade_3,upgrade_4,upgrade_5,Sum of upgrade_6,Sum of upgrade_7,Sum of upgrade_8,Sum of upgrade_9,Extra comments,Extra conditions
-67,Charge Storage,0 sec,1.25 sec,2.5 sec,3.75 sec,5 sec,7.5 sec,,,,,Works on all charge weapons except splatana,""
-71,Dodge Roll Attack,Off,On,"","","","",,,,,"",""
-66,Extra Dodge Roll,1,2,3,4,5,6,,,,,"",""
-72,Lunge Attack,Off,On,"","","","",,,,,"",""
-74,Mobile Drone Gauge,0p,1p,1.5p,2p,3p,5p,,,,,"",""
-75,Mobile Ink Recovery,0%,0.50%,1%,1.50%,3%,8%,,,,,"",""
-73,Mobile Special Charge,0p,1p,2p,3p,4p,5p,,,,,"",""
-65,Moving Ink Speed,100%,130%,145%,160%,170%,200%,,,,,Roller & Brush only,""
-64,Run Speed Up,100%,122%,131%,140%,148%,166%,,,,,"",""
-68,Rush Attack,100%,130%,160%,190%,210%,300%,3.3,3.6,3.9,5,"",""
-69,Rush Knockback,100%,117%,133%,167%,200%,300%,,,,,"",""
-70,Squid Attack,Off,On,"","","","",,,,,"",""
-63,Swim Speed Up,100%,122%,131%,140%,148%,166%,,,,,"",""
+id,Chip Name,Swim Speed Up,Run Speed Up,Moving Ink Speed,Extra Dodge Roll,Charge Storage,Rush Attack,Rush Knockback,Squid Attack,Dodge Roll Attack,Lunge Attack,Mobile Special Charge,Mobile Drone Gauge,Mobile Ink Recovery,Extra comments
+1,Swim Speed Up,100%,100%,100%,1,0,100%,100%,Off,Off,Off,0,0,0%,Works on all charge weapons except splatana
+2,Run Speed Up,122%,133%,130%,2,1.25,130%,117%,On,On,On,1,1,0.50%,
+3,Moving Ink Speed,131%,131%,145%,3,2.5,160%,133%,,,,2,1.5,1%,
+4,Extra Dodge Roll,140%,140%,160%,4,3.75,190%,167%,,,,3,2,1.50%,
+5,Mobile Drone Gauge,148%,148%,170%,5,5,210%,200%,,,,4,3,3%,
+6,Charge Storage,166%,166%,200%,6,7.5,300%,300%,,,,5,5,8%,
+7,Rush Attack,,,,,,,,,,,,,,
+8,Rush Knockback,,,,,,,,,,,,,,Roller & Brush only
+10,Squid Attack,,,,,,,,,,,,,,
+11,Dodge Roll Attack,,,,,,,,,,,,,,
+12,Lunge Attack,,,,,,,,,,,,,,
+13,Mobile Special Charge,,,,,,,,,,,,,,
+14,Mobile Drone Gauge,,,,,,,,,,,,,,
+15,Mobile Ink Recovery,,,,,,,,,,,,,,

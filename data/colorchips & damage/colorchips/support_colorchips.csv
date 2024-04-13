@@ -1,17 +1,17 @@
-﻿Sum of id,Chip Name,Base (0 Chips),upgrade_1,upgrade_2,upgrade_3,upgrade_4,upgrade_5,Sum of upgrade_6,Sum of upgrade_7,Sum of upgrade_8,Sum of upgrade_9,Extra comments,Extra conditions
-30,Brella Cooldown,5 sec,3.5 sec,3 sec,2.5 sec,2 sec,.5 sec,,,,,"",""
-22,Explosion Knockback,100%,117%,133%,167%,200%,300%,,,,,"",""
-24,Homing Shot,0%,12%,25%,33%,50%,100%,,,,,"",""
-17,Ink Saver (Main),100%,80%,70%,60%,50%,25%,,,,,"",Normal to angler fish
-18,Ink Saver (Sub),100%,80%,70%,60%,50%,25%,,,,,"",""
-16,Ink-Recovery Rate,100%,125%,150%,175%,200%,300%,,,,,"",Normal to top
-21,Knockback,0%,100%,200%,600%,1000%,2000%,,,,,"",""
-31,Midfire Charge,Off,On,"","","","",,,,,"",""
-29,No-Launch Brella,Off,On,"","","","",,,,,"",""
-26,Quick Charge (Bow),100%,80%,67%,60%,53%,33%,,,,,"",""
-25,Quick Charge (Charger),100%,69%,60%,47%,31%,5%,,,,,Aerial charge penalty is removed starting at level 2 chip for charger,""
-28,Quick Charge (Splatana),100%,90%,75%,62%,50%,37%,,,,,"",""
-27,Quick Charge (Splatling),100%,88%,80%,71%,59%,35%,,,,,"",""
-23,Shot-Spread Reduction,100%,80%,60%,40%,20%,None,,,,,"",""
-19,Splat Ink Recovery,0%,2%,4%,6%,10%,20%,,,,,"",""
-20,Sticky Ink,70%,45%,30%,20%,10%,1%,,,,,"",""
+Sum of id,Chip Name,Ink-Recovery Rate,Ink Saver (Main),Ink Saver (Sub),Splat Ink Recovery,Sticky Ink,Knockback,Explosion Knockback,Shot-Spread Reduction,Homing Shot,Quick Charge (Charger),Quick Charge (Bow),Quick Charge (Splatling),No-Launch Brella,Quick Charge (Splatana),Brella Cooldown,Midfire Charge,Extra comments,Extra conditions
+1,Ink-Recovery Rate,100%,100%,100%,0%,70%,0%,100%,100%,0%,100%,100%,100%,100%,Off,5,Off,,Normal to top
+2,Ink Saver (Main),125%,80%,80%,2%,45%,100%,117%,80%,12%,69%,80%,88%,90%,On,3.5,On,,Normal to angler fish
+3,Ink Saver (Sub),150%,70%,70%,4%,30%,200%,133%,60%,25%,60%,67%,80%,75%,,3,,,
+4,Splat Ink Recovery,175%,60%,60%,6%,20%,600%,167%,40%,33%,47%,60%,71%,62%,,2.5,,,
+5,Sticky Ink,200%,50%,50%,10%,10%,1000%,200%,20%,50%,31%,53%,59%,50%,,2,,,
+6,Knockback,300%,25%,25%,20%,1%,2000%,300%,None,100%,5%,33%,35%,37%,,5,,,
+7,Explosion Knockback,,,,,,,,,,,,,,,,,,
+8,Shot-Spread Reduction,,,,,,,,,,,,,,,,,,
+9,Homing Shot,,,,,,,,,,,,,,,,,,
+10,Quick Charge (Charger),,,,,,,,,,,,,,,,,Aerial charge penalty is removed starting at level 2 chip for charger,
+11,Quick Charge (Bow),,,,,,,,,,,,,,,,,,
+12,Quick Charge (Splatling),,,,,,,,,,,,,,,,,,
+13,Quick Charge (Splatana),,,,,,,,,,,,,,,,,,
+14,No-Launch Brella,,,,,,,,,,,,,,,,,,
+15,Brella Cooldown,,,,,,,,,,,,,,,,,,
+16,Midfire Charge,,,,,,,,,,,,,,,,,,
