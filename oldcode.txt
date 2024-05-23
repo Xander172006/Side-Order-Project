@@ -1,0 +1,22 @@
+# Read the CSV file into a DataFrame
+weapon_data = pd.read_csv('../data/colorchips & damage/damage categories/main_weapons.csv')
+
+printed_names = set()
+
+for i in range(len(weapon_data)):
+    weapon_type = weapon_data['weapon type'][i]
+
+    # Check if weapon name includes multiple words
+    if ' ' in weapon_type:
+        weapon_name = weapon_type.split(' ')
+        weapon_name = weapon_name[0] + weapon_name[1]
+    else:
+        weapon_name = weapon_type
+
+    # Print the weapon name if it hasn't been printed before
+    if weapon_name not in printed_names:
+        print(weapon_name)
+        printed_names.add(weapon_name)
+
+    
+       

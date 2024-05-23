@@ -1,14 +1,14 @@
-weapon type,base damage value,base damage value with extra conditions,extra information
-Dualie,240,,
-Splattershot/Octoshot,240,,
-Brella (Shot),162,up to 5 hits to single target for 810 damage,
-Splat Roller (Horizontal Ink Flick),1000,,
-Splat Roller (Vertical Ink Flick),1200,,
-Octo Brush (Ink Attack),450,,
-Luna Blaster (Direct Hit),1250,,
-Splat Charger,1600,,Pierces at full charge
-Tri-Stringer (Direct Hit),450,Per arrow,
-Slosher,650,,
-Splatana Stamper (Horizontal Ink Attack),500,,
-Splatana Stamper (Verticle Ink Attack),1050,,
-Heavy Splatling,200,,
+weapon type,base damage value,base damage value with extra conditions,extra information,sprite
+Dualie,240,,,https://sendou.ink/static-assets/img/main-weapons/5015.png
+Splattershot/Octoshot,240,,,https://leanny.github.io/splat3/images/weapon_flat/Path_Wst_Shooter_Normal_O.png
+Brella (Shot),162,up to 5 hits to single target for 810 damage,,https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Weapon_Main_Order_Brella_Replica_2D_Current.png/120px-S3_Weapon_Main_Order_Brella_Replica_2D_Current.png
+Splat Roller (Horizontal Ink Flick),1000,,,https://leanny.github.io/splat3/images/weapon_flat/Path_Wst_Roller_Normal_O.png
+Splat Roller (Vertical Ink Flick),1200,,,https://leanny.github.io/splat3/images/weapon_flat/Path_Wst_Roller_Normal_O.png
+Octo Brush (Ink Attack),450,,,https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c2/S3_Weapon_Main_Orderbrush_Replica_2D_Current.png/120px-S3_Weapon_Main_Orderbrush_Replica_2D_Current.png
+Luna Blaster (Direct Hit),1250,,,https://sendou.ink/static-assets/img/main-weapons/205.png
+Splat Charger,1600,,Pierces at full charge,https://sendou.ink/static-assets/img/main-weapons/2015.png
+Tri-Stringer (Direct Hit),450,Per arrow,,https://sendou.ink/static-assets/img/main-weapons/7015.png
+Slosher,650,,,https://sendou.ink/static-assets/img/main-weapons/3005.png
+Splatana Stamper (Horizontal Ink Attack),500,,,https://sendou.ink/static-assets/img/main-weapons/8005.png
+Splatana Stamper (Verticle Ink Attack),1050,,,https://sendou.ink/static-assets/img/main-weapons/8005.png
+Heavy Splatling,200,,,https://tiermaker.com/images//template_images/2022/16134351/splatoon-3-weapon-16134351/zzzzz-1708723451order-splatling-replica.png

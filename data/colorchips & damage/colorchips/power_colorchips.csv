@@ -1,4 +1,4 @@
-id,Chip Name,Ink Damage,Splash Damage,Sound-Wave Damage,Main Fire Speed (Duelie),Main Fire Speed (Splattershot),Main Fire Speed (Brella),Main Fire Speed (Roller),Main Fire Speed (Brush),Main Fire Speed (Blaster),Main Fire Speed (Slosher),Horizontal-Slash Speed,Splatling Barrage,Main Damage (Close),Main Damage (Distant),Poison Ink,Extra conditions
+id,Chip,Ink Damage,Splash Damage,Sound-Wave Damage,Main Fire Speed (Duelie),Main Fire Speed (Splattershot),Main Fire Speed (Brella),Main Fire Speed (Roller),Main Fire Speed (Brush),Main Fire Speed (Blaster),Main Fire Speed (Slosher),Horizontal-Slash Speed,Splatling Barrage,Main Damage (Close),Main Damage (Distant),Poison Ink,Extra conditions
 1,Ink Damage,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,
 2,Splash Damage,105%,130%,150%,117%,114%,117%,121%,125%,150%,117%,118%,121%,115%,115%,300%,
 3,Sound-Wave Damage,110%,160%,200%,140%,133%,126%,144%,136%,200%,131%,137%,133%,130%,130%,400%,
@@ -13,4 +13,4 @@ id,Chip Name,Ink Damage,Splash Damage,Sound-Wave Damage,Main Fire Speed (Duelie)
 12,Splatling Barrage,,,,,,,,,,,,,,,,
 13,Main Damage (Close),,,,,,,,,,,,,,,,
 14,Main Damage (Distant),,,,,,,,,,,,,,,,
-15,Poison Ink,,,,,,,,,,,,,,,,No damage to small fish (can not ink below them)
+15,Poison Ink,,,,,,,,,,,,,,,,

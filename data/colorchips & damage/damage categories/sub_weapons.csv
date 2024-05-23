@@ -1,4 +1,4 @@
-﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+﻿sub type,base damage value,base damage value with extra conditions,Extra information
 Drone Sprinkler,200,,""
 Sprinkler,200,,""
 Turbine Tower Sprinkler,200,,""
