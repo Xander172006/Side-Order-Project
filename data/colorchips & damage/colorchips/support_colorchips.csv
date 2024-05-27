@@ -1,4 +1,4 @@
-Sum of id,Chip Name,Ink-Recovery Rate,Ink Saver (Main),Ink Saver (Sub),Splat Ink Recovery,Sticky Ink,Knockback,Explosion Knockback,Shot-Spread Reduction,Homing Shot,Quick Charge (Charger),Quick Charge (Bow),Quick Charge (Splatling),No-Launch Brella,Quick Charge (Splatana),Brella Cooldown,Midfire Charge,Extra comments,Extra conditions
+id,Chip Name,Ink-Recovery Rate,Ink Saver (Main),Ink Saver (Sub),Splat Ink Recovery,Sticky Ink,Knockback,Explosion Knockback,Shot-Spread Reduction,Homing Shot,Quick Charge (Charger),Quick Charge (Bow),Quick Charge (Splatling),No-Launch Brella,Quick Charge (Splatana),Brella Cooldown,Midfire Charge,Extra comments,Extra conditions
 1,Ink-Recovery Rate,100%,100%,100%,0%,70%,0%,100%,100%,0%,100%,100%,100%,100%,Off,5,Off,,Normal to top
 2,Ink Saver (Main),125%,80%,80%,2%,45%,100%,117%,80%,12%,69%,80%,88%,90%,On,3.5,On,,Normal to angler fish
 3,Ink Saver (Sub),150%,70%,70%,4%,30%,200%,133%,60%,25%,60%,67%,80%,75%,,3,,,

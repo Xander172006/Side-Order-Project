@@ -1,5 +1,5 @@
 id,Chip Name,Drone Splat Bomb,Drone Burst Bomb,Drone Killer Wail,Drone Inkstrike,Drone Ink Mine,Drone Sprinkler,Drone Items,Drone-Gauge Charge,Splat Drone Gauge
-1,Drone Burst Bomb,Not Activated,Not Activated,Not Activated,Not Activated,Not Activated,Not Activated,Not Activated,6,0
+1,Drone Burst Bomb,,,,,,,,6,0
 2,Drone Ink Mine,200,180,500,550,190,10,600,7,30
 3,Drone Inkstrike,160,150,460,440,160,8,500,8,40
 4,Drone Items,130,120,420,360,130,6,400,9,50
