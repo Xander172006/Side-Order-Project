@@ -31,41 +31,52 @@ and upgrades the player can make or customize.
 
 <br />
 
-### Installation
+## Installation
+### <ins>_Jupyter Notebook_<ins/>
 
-The following libraries are required to run the application:
-- [Python](https://docs.python.org/3/) served as the primary programming language
+Install the following packages to run jupyter notebook:
+
 - [Pandas](https://pandas.pydata.org/docs/) to manipualte and interact with the data
 - [Matplotlib ](https://matplotlib.org/stable/index.html) to customize and visualize the data in jupyter notebook
-- [PowerBI](https://learn.microsoft.com/en-us/power-bi/) for loading the dashboard and seeing the visualizations
-</ br>
+- [Plotly](https://plotly.com/python/) to create interactive plots in jupyter notebook
+- [IPywidgets](https://ipywidgets.readthedocs.io/en/latest/) to create interactive widgets in jupyter notebook
 
-### a. Python
-Install [`python`](https://docs.python.org/3/) using the following command:
+However if you want to view the project using [**nbviewer**](https://nbviewer.jupyter.org/github/Xander172006/Side-Order-Project/blob/main/analysis/analysis.ipynb), there is a requirements.txt file already included in the project.
+
 ```bash
     python3 --version
+    pip install -r requirements.txt
+    pip install pandas matplotlib plotly ipywidgets
 ```
 
-### b. Pandas & Matplotlib
-Install [`pandas`](https://pandas.pydata.org/docs/) and [`matplotlib`](https://matplotlib.org/stable/index.html) using the following command:
-```bash
-    pip install pandas
-```
+### <ins>_PowerBi_<ins/>
 
-### c. PowerBI
-Go to the official microsoft page to download [`PowerBi`](https://powerbi.microsoft.com/nl-nl/downloads/) on your device.
-Once you installed everything correctly, you can now start to viewing the project.
+To view the dashboard created in PowerBI you need to install it from the official microsoft website [**PowerBI**](https://powerbi.microsoft.com/en-us/).
+After installing PowerBI, you can use the `./data` folder to import the datasets into the dashboard.
+
+*All the data is cleaned in advance, so you can directly use it without issues.
 
 <br />
 
 ## Usage
-### Filtering and Interacting
-You can filter and interact with the dashboard in PowerBi with these following components:
+### <ins>_Jupyter Notebook_<ins/>
+
+Plotly and IPywidgets allows you to have interactive plots inside jupyter notebooks. It uses different elements to filter according to your needs.
+If your not too familiar with Plotly's filter options, you can click here for a better [**Explanation**](https://plotly.com/python/filter/).
 <br />
 
-<img src="./images/upperhalf_dashboard.png" alt="upperhalf side order">
+### **Colorchip linechart visualization**
+<img src="./images/colorchips_visualization.png" alt="Colorchip visualization" width="450px" height="250px"/>
 
 <br />
+
+### <ins>_PowerBi_<ins/>
+
+PowerBi has many filter options you can use, that vary depending on the visualization of your choice.
+To inspect things properly you can go to the main website of PowerBI for a better display.
+
+<img src="./images/upperhalf_dashboard.png" alt="Colorchip visualization"/>
+
 
 ## Contributors
 
@@ -78,6 +89,16 @@ You can filter and interact with the dashboard in PowerBi with these following c
 **Email:** xanderpoggenklaas@gmail.com
 </br>
 **Twitter:** [@XPoggenklaas](https://twitter.com/XPoggenklaas)
+
+<style>
+    .centering_colorchips {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        align-items: center;
+    }
+
+</style>
 
 
 
