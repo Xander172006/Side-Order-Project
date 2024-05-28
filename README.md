@@ -66,7 +66,7 @@ If your not too familiar with Plotly's filter options, you can click here for a 
 <br />
 
 ### **Colorchip linechart visualization**
-<img src="./images/colorchips_visualization.png" alt="Colorchip visualization"/>
+<img src="./images/colorchips_visualization.png" alt="Colorchip visualization" width="500px" height="300px"/>
 
 <br />
 
