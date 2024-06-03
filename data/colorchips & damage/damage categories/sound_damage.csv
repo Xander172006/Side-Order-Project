@@ -1,4 +1,4 @@
-﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+﻿name,base damage value,Base damage value with extra conditions,Extra information
 Drone Killer Wail,90,"(1 Tick every 5 frames = 1080 DPS)
           Drone only gets 1 beam","12 ticks/second
 Damaging part of attack lasts about 7 seconds"
