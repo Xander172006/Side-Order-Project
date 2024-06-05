@@ -1,4 +1,4 @@
-weapon type,base damage value,base damage value with extra conditions,extra information,sprite
+name,base damage value,base damage value with extra conditions,extra information,sprite
 Dualie,240,,,https://sendou.ink/static-assets/img/main-weapons/5015.png
 Splattershot/Octoshot,240,,,https://leanny.github.io/splat3/images/weapon_flat/Path_Wst_Shooter_Normal_O.png
 Brella (Shot),162,up to 5 hits to single target for 810 damage,,https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Weapon_Main_Order_Brella_Replica_2D_Current.png/120px-S3_Weapon_Main_Order_Brella_Replica_2D_Current.png

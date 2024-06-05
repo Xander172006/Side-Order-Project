@@ -1,4 +1,4 @@
-﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+﻿name,base damage value,Base damage value with extra conditions,Extra information
 "Accordo Explosion ""Tree Angler Fish Enemy""",1800,,""
 Booyah Bomb,264,1 tick every 8 frames = 1980 DPS),7.5 ticks/second
 Bouncing off a dead Spiccato's Spring,1200,,""

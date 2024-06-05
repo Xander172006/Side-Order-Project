@@ -1,4 +1,4 @@
-﻿special type,base damage value,Base damage value with extra conditions,Extra information
+﻿name,base damage value,Base damage value with extra conditions,Extra information
 Crab Tank (Direct Hit with Ink Bomb),600,,""
 Crab Tank (Rapid Fire Shot),320,,""
 Ink Storm,32,1 tick every 8 frames = 240 DPS,7.5 ticks/second

@@ -1,10 +1,10 @@
-Id,Upgrade Name,Description,Max Lives,Damage Reduction,Max Armor,Broken-Armor Jump,Broken-Armor Speed,Attack Damage,Double Chip Rate,Drone Action Slot,Vending Machines Discount,Membux Reward,Vending Machine-Reset,Continue,Floor Reset,Armor Recovery Rate,Color-Chip Bias,Unlock,Upgrade Receipe
-1,Max Lives,Increases how many Lives you get per run at the Spire.,1,2.0,1,,0.6,1,5%,1,0%,1.0,,,,12s,Default,Initially,Player
-2,Damage Reduction,Reduces damage taken.,2,1.5,2,1.0,0.7,1.2,7%,2,10%,1.1,800,3000,400,10s,Slight Bias (2x/1.5x),Initially,Player
-3,Max Armor,Increases the maximum pieces of additional armor you can have at once.,3,1.0,3,1.2,0.8,1.4,9%,3,20%,1.2,600,2600,300,8s,High Bias (3x/2x),Initially,Player
-4,Broken-Armor Jump,Automatically launch into the air when all armor is broken. Extra investment increases launch height.,4,0.9,4,1.5,0.9,1.6,11%,4,30%,1.3,500,2200,200,6s,,Initially,Player
-5,Armor Recovery Rate,Increases the speed at which broken armor repairs itself. Swimming in ink restores it even faster.,5,0.75,,2.0,,1.8,13%,5,40%,1.4,400,1800,100,4s,,After Clearing 5F,Player
-6,Broken-Armor Speed,Increases movement speed when all armor is broken.,6,0.5,,,,2,15%,,50%,1.5,200,1400,50,,,After Clearing 15F,Player
+Id,Upgrade Name,Description,Max Lives,Damage Reduction,Max Armor,Broken-Armor Jump,Armor Recovery Rate,Broken-Armor Speed,Continue,Attack Damage,Floor Reset,Double Chip Rate,Color-Chip Bias,Drone Action Slot,Vending Machines Discount,Vending Machine-Reset,Membux Reward,Unlock,Upgrade Receipe
+1,Max Lives,Increases how many Lives you get per run at the Spire.,30,30,50,30,10,30,50,150,50,30,0,10,30,10,50,Initially,Player
+2,Damage Reduction,Reduces damage taken.,90,60,100,60,50,60,100,200,80,50,50,50,60,30,80,Initially,Player
+3,Max Armor,Increases the maximum pieces of additional armor you can have at once.,180,100,300,100,100,100,200,300,120,70,,150,120,50,100,Initially,Player
+4,Broken-Armor Jump,Automatically launch into the air when all armor is broken. Extra investment increases launch height.,360,200,,200,150,,300,500,150,90,,300,200,70,150,Initially,Player
+5,Armor Recovery Rate,Increases the speed at which broken armor repairs itself. Swimming in ink restores it even faster.,500,400,,,,,400,700,200,150,,,400,100,300,After Clearing 5F,Player
+6,Broken-Armor Speed,Increases movement speed when all armor is broken.,,,,,,,,,,,,,,,,After Clearing 15F,Player
 7,Continue,Allows you to pay Membux to keep going after losing all your Lives.,,,,,,,,,,,,,,,,After Clearing 20F,Player
 8,Attack Damage,Increase damage dealt to enemies.,,,,,,,,,,,,,,,,After Clearing 30F,Player
 9,Floor Reset,Enables you to reset the offered floor types and rewards.,,,,,,,,,,,,,,,,After Clearing 15F,Random Factors

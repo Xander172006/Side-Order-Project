@@ -1,4 +1,4 @@
-﻿MAIN DAMAGE TYPES,Sum of Base damage value,Base damage value with extra conditions,Extra information
+﻿name,base damage value,Base damage value with extra conditions,Extra information
 Brella (Launched or Held Shield),500,,""
 Burst Bomb (Direct Hit),250,,""
 Crab Tank (Rolling while in Ball form),400,,""
@@ -7,7 +7,7 @@ Dodge Roll Attack Chip (Duelie Only),800,,""
 Drone Burst Bomb (Direct Hit),250,,""
 Kraken Royale (Charged Dash),1800,,""
 Kraken Royale (Jump),800,,""
-"Launched Whirling Accelerando Corpse ""Spinning Top Enemy""",4800,,""
+"Launched Whirling Accelerando Corpse""",4800,,""
 Lunge Attack Chip (Splatana Only),800,,""
 OctoBrush (Running Into Enemies),320,,""
 Reefslider (Slide Thru Enemies),1800,,""

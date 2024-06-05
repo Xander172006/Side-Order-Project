@@ -1,8 +1,8 @@
 id,category
-1,main weapons
-2,sub weapons
-3,special weapons
-4,explosion types
-5,poison types
-6,sound wave types
-7,rush types
+1,main_weapons
+2,sub_weapons
+3,special_weapons
+4,explosion_damage
+5,poison_damage
+6,sound_damage
+7,rush_damage
